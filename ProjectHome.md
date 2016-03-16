@@ -1,0 +1,1 @@
+Shark and fishes is a basic predator/prey simulation, written in C++.
